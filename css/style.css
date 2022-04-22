@@ -60,3 +60,43 @@ header{
     width: 100%;
     border-radius: 5px;
 }
+
+/* terza section */
+#terza-sezione{
+    background-color: #1abc9c;
+    width: 100%;
+    padding-bottom: 25px;
+    padding-top: 10%;
+}
+
+#about{
+    color: white;
+    font-size: 40px;
+    margin-left: 10px;
+    padding-top: 20px;
+}
+
+.freelancer{
+    color: white;
+}
+
+#download{
+    margin-left: 8%;
+    margin: 5px;
+    border: 1px solid white;
+    border-radius: 10px;
+    padding: 5px;
+}
+
+.fa-download{
+    margin-right: 10px;
+}
+
+#download a{
+    text-decoration: none;
+    color: white;
+}
+
+.col-lg-5, .offset-5 #download{
+    margin-top: 20px;
+}
