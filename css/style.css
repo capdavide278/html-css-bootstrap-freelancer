@@ -37,3 +37,26 @@ header{
     margin-left: 10px;
 }
 
+.simbolo{
+    color: red;
+    font-size: 40px;
+    margin-left: 10px;
+}
+
+/* seconda section */
+#seconda-sezione{
+    background-color: white;
+    width: 100%;
+    padding-bottom: 25px;
+    /* height: 500px; */
+}
+
+#portfolio{
+    color: black;
+    font-size: 40px;
+}
+
+.bd-highlight img{
+    width: 100%;
+    border-radius: 5px;
+}
