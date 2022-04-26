@@ -27,7 +27,7 @@ header{
 }
 
 .row img{
-    width: 25%;
+    width: 24%;
     margin-top: 35px;
 }
 
@@ -56,7 +56,7 @@ header{
     font-size: 40px;
 }
 
-.bd-highlight img{
+.col-lg-4 img{
     width: 100%;
     border-radius: 5px;
 }
@@ -99,4 +99,47 @@ header{
 
 .col-lg-5, .offset-5 #download{
     margin-top: 20px;
+}
+
+/* quarta sezione */
+#quarta-sezione{
+    background-color: white;
+    width: 100%;
+    padding-bottom: 25px;
+    /* debug */
+    height: 150px;
+}
+
+#contact{
+    color: black;
+    font-size: 40px;
+    margin-left: 10px;
+    padding-top: 20px;
+}
+
+/* footer diviso in due sezioni */
+#footer-top{
+    height: 150px;
+    background-color: #3a546d;
+    color: white;
+}
+
+.testo-centrato{
+    padding-top: 20px;
+    text-align: center;
+    font-size: 30px;
+}
+
+.col-lg-4 ul li{
+    display: inline-block;
+    margin: 0 8px;
+}
+
+.col-lg-4 ul li a{
+    color: white;
+    text-decoration: none;
+    border: 2px solid white;
+    padding: 13px;
+    border-radius: 40px;
+    font-size: 15px;
 }
