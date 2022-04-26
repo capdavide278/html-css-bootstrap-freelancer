@@ -118,7 +118,7 @@ header{
 }
 
 /* footer diviso in due sezioni */
-#footer-top{
+#footer-alto{
     height: 215px;
     background-color: #3a546d;
     color: white;
@@ -149,7 +149,7 @@ header{
 }
 
 /* footer-down */
-#footer-down{
+#footer-basso{
     height: 70px;
     background-color: #2c3e50;
 }
