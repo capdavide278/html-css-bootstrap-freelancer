@@ -37,10 +37,15 @@ header{
     margin-left: 100px;
 }
 
-.simbolo{
+.simbolo, .simbolo-nero{
     color: white;
     font-size: 40px;
-    margin-left: 10px;
+    margin-left: 100px;
+}
+
+.simbolo-nero{
+    color: black;
+    margin-left: 180px;
 }
 
 /* seconda section */
